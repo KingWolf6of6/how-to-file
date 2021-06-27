@@ -7,4 +7,7 @@ git clone repo                  git clone [url to github repo]
 adding files to git tracking    git add [file]
                                 git add .
 commiting						git comit -m "[comit message]"	
-pushing code to git hub         git push origin [branch]	
+pushing code to git hub         git push origin [branch]
+status of git                   git status	
+configuring git                 git config --global user.email rwfastje@gmail.com
+                                git config --global user.name KingWolf6of6
